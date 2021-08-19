@@ -1,7 +1,7 @@
 [
   {
     "Link": "https://s18.picofile.com/file/8439574276/IMG_20210818_182233.jpg",
-    "username": "vidkiw",
-    "Text": "rik"
+    "ID": "DUFP434SGDGE465",
+    "Text": "سلام بچه ها من عاشق ریک هستم شما چطور توی نظرات بگید حتماً"
   }
 ]
